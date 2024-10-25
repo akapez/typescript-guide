@@ -83,3 +83,7 @@
    - "autobind" decorator
    - validation with decorator
    - docs: [Decorators](https://www.typescriptlang.org/docs/handbook/decorators.html)
+
+**6. Drag and Drop Project**
+   - namespace
+   - es modules
