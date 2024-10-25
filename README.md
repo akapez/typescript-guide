@@ -74,7 +74,7 @@
    - generic utility types: [Utility Types](https://www.typescriptlang.org/docs/handbook/utility-types.html#recordkeys-type)
    - docs: [Generics](https://www.typescriptlang.org/docs/handbook/2/generics.html)
 
-**5. Decorators**
+**6. Decorators**
    - classes decorators
    - decorator factories
    - property decorator
@@ -84,6 +84,8 @@
    - validation with decorator
    - docs: [Decorators](https://www.typescriptlang.org/docs/handbook/decorators.html)
 
-**6. Drag and Drop Project**
+**7. Drag and Drop Project**
    - namespace
    - es modules
+
+**8. Webpack**
